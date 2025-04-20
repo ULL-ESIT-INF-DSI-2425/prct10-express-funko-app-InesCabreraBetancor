@@ -11,7 +11,10 @@
     "build": "tsc",
     "start": "npm run build && node dist/ejercicio-1.js",
     "ej1": "node dist/modificacion/ejercicio-1.js",
-    "ej2": "node dist/modificacion/ejercicio-2.js"
+    "ej2": "node dist/modificacion/ejercicio-2.js",
+    "p1": "node dist/pruebas/p1.js",
+    "p2": "node dist/pruebas/p2.js",
+    "p3": "node dist/pruebas/p3.js"
   },
   "repository": {
     "type": "git",
