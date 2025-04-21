@@ -14,7 +14,9 @@
     "ej2": "node dist/modificacion/ejercicio-2.js",
     "p1": "node dist/pruebas/p1.js",
     "p2": "node dist/pruebas/p2.js",
-    "p3": "node dist/pruebas/p3.js"
+    "p3": "node dist/pruebas/p3.js",
+    "p4": "node dist/pruebas/p4.js",
+    "modi": "node dist/modificacion/app.js"
   },
   "repository": {
     "type": "git",
